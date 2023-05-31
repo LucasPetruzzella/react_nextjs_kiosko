@@ -1,0 +1,24 @@
+import Image from "next/image";
+import useQuiosco from "../hooks/useQuiosco";
+import Categoria from "./Categoria";
+function SlideBar() {
+  const { categorias } = useQuiosco();
+  return (
+    <>
+      <Image
+        width={250}
+        height={100}
+        src="/assets/img/logo.svg"
+        alt="imagen logotipo"
+      />
+
+      <nav className="mt-10">
+        {categorias.map((cat) => (
+          <Categoria key={cat.id} categoria={cat} />
+        ))}
+      </nav>
+    </>
+  );
+}
+
+export default SlideBar;
