@@ -1,0 +1,4 @@
+id,nombre,fecha,total,pedido,completa
+1,lucas,1685499712672,1797,"[{""id"":3,""nombre"":""Latte Frio con Chocolate Grande"",""precio"":549,""imagen"":""cafe_03"",""cantidad"":2},{""id"":49,""nombre"":""Pizza Spicy con Doble Queso"",""precio"":699,""imagen"":""pizzas_01"",""cantidad"":1}]",0
+2,Lucas,1685499771232,1797,"[{""id"":3,""nombre"":""Latte Frio con Chocolate Grande"",""precio"":549,""imagen"":""cafe_03"",""cantidad"":2},{""id"":49,""nombre"":""Pizza Spicy con Doble Queso"",""precio"":699,""imagen"":""pizzas_01"",""cantidad"":1}]",0
+3,Matias,1685500113683,1797,"[{""id"":3,""nombre"":""Latte Frio con Chocolate Grande"",""precio"":549,""imagen"":""cafe_03"",""cantidad"":2},{""id"":49,""nombre"":""Pizza Spicy con Doble Queso"",""precio"":699,""imagen"":""pizzas_01"",""cantidad"":1}]",0

@@ -20,7 +20,7 @@ function Admin() {
           data.map(orden => (
             <Orden key={orden.id} orden={orden}/>
           ))
-        ) : <p>"Sin Ordenes"</p>
+        ) : (<p>Sin Ordenes</p>)
       }
     </AdminLayout>
   );

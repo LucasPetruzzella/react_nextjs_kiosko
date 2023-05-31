@@ -1,0 +1,119 @@
+id,nombre,precio,imagen,categoriaId
+1,Café Caramel con Chocolate,599,cafe_01,1
+2,Café Frio con Chocolate Grande,499,cafe_02,1
+3,Latte Frio con Chocolate Grande,549,cafe_03,1
+4,Latte Frio con Chocolate Grande,549,cafe_04,1
+5,Malteada Fria con Chocolate Grande,549,cafe_05,1
+6,Café Mocha Caliente Chico,399,cafe_06,1
+7,Café Mocha Caliente Grande con Chocolate,599,cafe_07,1
+8,Café Caliente Capuchino Grande,599,cafe_08,1
+9,Café Mocha Caliente Mediano,499,cafe_09,1
+10,Café Mocha Frio con Caramelo Mediano,499,cafe_10,1
+11,Café Mocha Frio con Chocolate Mediano,499,cafe_11,1
+12,Café Espresso,299,cafe_12,1
+13,Café Capuchino Grande con Caramelo,599,cafe_13,1
+14,Café Caramelo Grande,599,cafe_14,1
+15,Paquete de 3 donas de Chocolate,399,donas_01,4
+16,Paquete de 3 donas Glaseadas,399,donas_02,4
+17,Dona de Fresa ,199,donas_03,4
+18,Dona con Galleta de Chocolate ,199,donas_04,4
+19,Dona glass con Chispas Sabor Fresa ,199,donas_05,4
+20,Dona glass con Chocolate ,199,donas_06,4
+21,Dona de Chocolate con MÁS Chocolate ,199,donas_07,4
+22,Paquete de 3 donas de Chocolate ,399,donas_08,4
+23,Paquete de 3 donas con Vainilla y Chocolate ,399,donas_09,4
+24,Paquete de 6 Donas,699,donas_10,4
+25,Paquete de 3 Variadas,399,donas_11,4
+26,Dona Natural con Chocolate,199,donas_12,4
+27,Paquete de 3 Donas de Chocolate con Chispas,399,donas_13,4
+28,Dona Chocolate y Coco,199,donas_14,4
+29,Paquete Galletas de Chocolate,299,galletas_01,6
+30,Paquete Galletas de Chocolate y Avena,399,galletas_02,6
+31,Paquete de Muffins de Vainilla,399,galletas_03,6
+32,Paquete de 4 Galletas de Avena,249,galletas_04,6
+33,Galletas de Mantequilla Variadas,399,galletas_05,6
+34,Galletas de sabores frutales,399,galletas_06,6
+35,Hamburguesa Sencilla,599,hamburguesas_01,2
+36,Hamburguesa de Pollo,599,hamburguesas_02,2
+37,Hamburguesa de Pollo y Chili,599,hamburguesas_03,2
+38,Hamburguesa Queso y Pepinos,599,hamburguesas_04,2
+39,Hamburguesa Cuarto de Libra,599,hamburguesas_05,2
+40,Hamburguesa Doble Queso,699,hamburguesas_06,2
+41,Hot Dog Especial,499,hamburguesas_07,2
+42,Paquete 2 Hot Dogs,699,hamburguesas_08,2
+43,4 Rebanadas de Pay de Queso,699,pastel_01,5
+44,Waffle Especial,499,pastel_02,5
+45,Croissants De la casa,399,pastel_03,5
+46,Pay de Queso,199,pastel_04,5
+47,Pastel de Chocolate,299,pastel_05,5
+48,Rebanada Pastel de Chocolate,299,pastel_06,5
+49,Pizza Spicy con Doble Queso,699,pizzas_01,3
+50,Pizza Jamón y Queso,699,pizzas_02,3
+51,Pizza Doble Queso,699,pizzas_03,3
+52,Pizza Especial de la Casa,699,pizzas_04,3
+53,Pizza Chorizo,699,pizzas_05,3
+54,Pizza Hawaiana,699,pizzas_06,3
+55,Pizza Tocino,699,pizzas_07,3
+56,Pizza Vegetales y Queso,699,pizzas_08,3
+57,Pizza Pepperoni y Queso,699,pizzas_09,3
+58,Pizza Aceitunas y Queso,699,pizzas_10,3
+59,"Pizza Queso, Jamón y Champiñones",699,pizzas_11,3
+60,Café Caramel con Chocolate,599,cafe_01,1
+61,Café Frio con Chocolate Grande,499,cafe_02,1
+62,Latte Frio con Chocolate Grande,549,cafe_03,1
+63,Latte Frio con Chocolate Grande,549,cafe_04,1
+64,Malteada Fria con Chocolate Grande,549,cafe_05,1
+65,Café Mocha Caliente Chico,399,cafe_06,1
+66,Café Mocha Caliente Grande con Chocolate,599,cafe_07,1
+67,Café Caliente Capuchino Grande,599,cafe_08,1
+68,Café Mocha Caliente Mediano,499,cafe_09,1
+69,Café Mocha Frio con Caramelo Mediano,499,cafe_10,1
+70,Café Mocha Frio con Chocolate Mediano,499,cafe_11,1
+71,Café Espresso,299,cafe_12,1
+72,Café Capuchino Grande con Caramelo,599,cafe_13,1
+73,Café Caramelo Grande,599,cafe_14,1
+74,Paquete de 3 donas de Chocolate,399,donas_01,4
+75,Paquete de 3 donas Glaseadas,399,donas_02,4
+76,Dona de Fresa ,199,donas_03,4
+77,Dona con Galleta de Chocolate ,199,donas_04,4
+78,Dona glass con Chispas Sabor Fresa ,199,donas_05,4
+79,Dona glass con Chocolate ,199,donas_06,4
+80,Dona de Chocolate con MÁS Chocolate ,199,donas_07,4
+81,Paquete de 3 donas de Chocolate ,399,donas_08,4
+82,Paquete de 3 donas con Vainilla y Chocolate ,399,donas_09,4
+83,Paquete de 6 Donas,699,donas_10,4
+84,Paquete de 3 Variadas,399,donas_11,4
+85,Dona Natural con Chocolate,199,donas_12,4
+86,Paquete de 3 Donas de Chocolate con Chispas,399,donas_13,4
+87,Dona Chocolate y Coco,199,donas_14,4
+88,Paquete Galletas de Chocolate,299,galletas_01,6
+89,Paquete Galletas de Chocolate y Avena,399,galletas_02,6
+90,Paquete de Muffins de Vainilla,399,galletas_03,6
+91,Paquete de 4 Galletas de Avena,249,galletas_04,6
+92,Galletas de Mantequilla Variadas,399,galletas_05,6
+93,Galletas de sabores frutales,399,galletas_06,6
+94,Hamburguesa Sencilla,599,hamburguesas_01,2
+95,Hamburguesa de Pollo,599,hamburguesas_02,2
+96,Hamburguesa de Pollo y Chili,599,hamburguesas_03,2
+97,Hamburguesa Queso y Pepinos,599,hamburguesas_04,2
+98,Hamburguesa Cuarto de Libra,599,hamburguesas_05,2
+99,Hamburguesa Doble Queso,699,hamburguesas_06,2
+100,Hot Dog Especial,499,hamburguesas_07,2
+101,Paquete 2 Hot Dogs,699,hamburguesas_08,2
+102,4 Rebanadas de Pay de Queso,699,pastel_01,5
+103,Waffle Especial,499,pastel_02,5
+104,Croissants De la casa,399,pastel_03,5
+105,Pay de Queso,199,pastel_04,5
+106,Pastel de Chocolate,299,pastel_05,5
+107,Rebanada Pastel de Chocolate,299,pastel_06,5
+108,Pizza Spicy con Doble Queso,699,pizzas_01,3
+109,Pizza Jamón y Queso,699,pizzas_02,3
+110,Pizza Doble Queso,699,pizzas_03,3
+111,Pizza Especial de la Casa,699,pizzas_04,3
+112,Pizza Chorizo,699,pizzas_05,3
+113,Pizza Hawaiana,699,pizzas_06,3
+114,Pizza Tocino,699,pizzas_07,3
+115,Pizza Vegetales y Queso,699,pizzas_08,3
+116,Pizza Pepperoni y Queso,699,pizzas_09,3
+117,Pizza Aceitunas y Queso,699,pizzas_10,3
+118,"Pizza Queso, Jamón y Champiñones",699,pizzas_11,3
